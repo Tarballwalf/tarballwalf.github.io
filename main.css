@@ -19,3 +19,9 @@
     color: #910e0f;
     text-align: center;
 }
+
+#error404 {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
