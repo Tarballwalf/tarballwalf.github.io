@@ -16,6 +16,7 @@
 
 #nameandfont {
     font: 128px 'Aihet Script Personal Use Only';
+    src: url('./fonts/"Aihet Script Personal Use Only.ttf"');
     color: #910e0f;
     text-align: center;
 }
