@@ -29,8 +29,6 @@
 @font-face {
     font-family: 'font-1';
     src: url('font-1.woff2') format('woff2'),
-         url('font-1.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+         url('font-1.woff') format('woff'),
+         url('font-1.tff') format('tff');
 }
