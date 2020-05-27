@@ -1,0 +1,9 @@
+body2 {
+    position: absolute;
+    left: 170px;
+    right: 170px;
+}
+
+#time {
+    font-size: 12px;
+}
