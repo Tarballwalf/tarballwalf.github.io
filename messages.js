@@ -19,6 +19,10 @@ var messages = [
     'The things you learn in maturity aren\'t simple things such as acquiring information and skills. You learn engage in self-destructive behavior.',
     'Reconsider your brain',
     'Hardcore Gay Yiff',
+    'God is Dead, and we have Killed Him',
+    'DED_MOON is dead',
+    'No.',
+    'Death.',
 ]
 function newMessage() {
         var randomNumber = Math.floor(Math.random() * (messages.length));
