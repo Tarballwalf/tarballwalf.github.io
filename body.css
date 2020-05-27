@@ -7,12 +7,8 @@
 }
 
 .border {
-    width: 682px;
+    width: 690px auto;
     overflow: hidden;
-    white-space: nowrap;
-    height:1px;
-    background:#ffffff;
-    border-bottom:1px solid #ffffff;
 }
 
 @media 
