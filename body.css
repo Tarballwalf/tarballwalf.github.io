@@ -8,6 +8,10 @@
 
 .border {
     width: 682px auto;
+    margin: auto;
+    border-style: dashed;
+    border-collapse: collapse;
+    border-color: #cacaca;
     overflow: hidden;
 }
 
