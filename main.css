@@ -47,10 +47,6 @@ line {
     text-decoration: none;
   }
 
-a:hover {
-    color: gray;
-}
-
 @font-face {
     font-family: 'aihet';
     src: url('./fonts/aihet_script_personal_use_only.woff2') format('woff2'),

@@ -15,6 +15,11 @@
     overflow: hidden;
 }
 
+a:hover {
+    color: gray;
+}
+
+
 @media 
 /* Small Screens */
 only screen and (max-width: 500px),
