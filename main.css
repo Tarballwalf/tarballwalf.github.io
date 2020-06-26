@@ -18,6 +18,13 @@ line {
     left: 8px;
 }
 
+#gohome-footer {
+    font-size: 11px;
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+}
+
 #nameandfont {
     font: 128px 'aihet';
     color: #910e0f;

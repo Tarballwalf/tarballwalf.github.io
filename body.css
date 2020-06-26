@@ -15,7 +15,7 @@
     overflow: hidden;
 }
 
-a:hover {
+:hover {
     color: gray;
 }
 
