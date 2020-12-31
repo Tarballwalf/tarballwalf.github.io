@@ -92,7 +92,7 @@
 }
 
 .markdown-body a {
-  color: #aaaaaa;
+  color: #858282;
   text-decoration: none;
 }
 
@@ -195,7 +195,7 @@
 .markdown-body :checked+.radio-label {
   position: relative;
   z-index: 1;
-  border-color: #aaaaaa;
+  border-color: #858282;
 }
 
 .markdown-body .border {
@@ -296,7 +296,7 @@
 
 .markdown-body .pl-c1,
 .markdown-body .pl-s .pl-v {
-  color: #aaaaaa;
+  color: #858282;
 }
 
 .markdown-body .pl-e,
@@ -393,7 +393,7 @@
 
 .markdown-body .pl-mi2 {
   color: #f6f8fa;
-  background-color: #aaaaaa;
+  background-color: #858282;
 }
 
 .markdown-body .pl-mdr {
@@ -747,8 +747,8 @@
 }
 
 .markdown-body .full-commit .btn-outline:not(:disabled):hover {
-  color: #aaaaaa;
-  border-color: #aaaaaa;
+  color: #858282;
+  border-color: #858282;
 }
 
 .markdown-body .blob-wrapper {
