@@ -9,8 +9,8 @@
 .border {
     width: 682px auto;
     margin: auto;
-    border-style: dotted 2px;
-    border-collapse: collapse;
+    border-top: dashed 0px;
+    border-bottom: dashed 1px;
     border-color: #cacaca;
     overflow: hidden;
 }
