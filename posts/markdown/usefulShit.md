@@ -68,12 +68,5 @@
 * [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_US) - terminal for fucking Android
 * [Magic iPerf](https://play.google.com/store/apps/details?id=com.nextdoordeveloper.miperf.miperf&hl=en_US) - iperf server/client
 * [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm&hl=en_US) - this thing is better then that Samsung Device Care shit
-* [InstaX](https://thegeekflux.in/instax) - modded Instagram
+* [Instander](https://thedise.me/instander/) - modded Instagram
 * [Youtube Vanced](https://vanced.app/) - a much better Youtube app
-
-
-
-
-For later
-* http://ytdl-org.github.io/youtube-dl/
-* https://addons.mozilla.org/en-US/firefox/addon/youtube-dlforextension/
