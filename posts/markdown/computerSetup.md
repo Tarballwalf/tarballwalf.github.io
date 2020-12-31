@@ -27,7 +27,7 @@
 * HDD(OS) : Segate Barracuda 250GB 7200rpm
 * [🖼️](https://i.imgur.com/4cg6Hoj.jpg)
 
-#### Storage Setup:
+Storage Setup:
 * HDD1: Segate Barracuda 1TB 7200rpm
 * HDD2: Western Digital Caviar 400GB 7200rpm
 
