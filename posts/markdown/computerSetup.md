@@ -24,13 +24,18 @@
 * RAM: 2x 2GB DDR2 (4GB total)
 * HDD(OS) : Segate Barracuda 250GB 7200rpm
 
-### Storage Setup:
+#### Storage Setup:
 * HDD1: Segate Barracuda 1TB 7200rpm
 * HDD2: Western Digital Caviar 400GB 7200rpm
 
 
 ## Laptop:
-* Dell Inspiron 3542
+Dell Inspiron 3542
+* CPU: Intel Pentium 3558U
+* GPU: Nvidia GeForce 820M
+* RAM: 8GB DDR3L HyperX Impact 1600MHz
+* SSD: WesternDigital Blue NAND 500GB
+* OS: Ubuntu 20.04
 
 ## Phone:
 * Galaxy S10+ Ceramic Black 128GB
