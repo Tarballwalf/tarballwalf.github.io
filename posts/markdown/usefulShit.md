@@ -1,7 +1,7 @@
 ## A collection of recommended stuff I find useful or use
 
 ### Windows
-* [Waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - Fuck the web version, and it's unlimited (if your PC can handle it)
+* [Waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - Fuck the web version, and has no limitations (if your PC can handle it)
 * [Rainmeter](https://www.rainmeter.net/) - Who doesn't love endless desktop customization
 * [TranslucentTB](https://www.microsoft.com/en-us/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab) - Make your taskbar transparent and look nice
 * [Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Best UWP style theme for Firefox
