@@ -33,7 +33,6 @@
 * [OBS Studio](https://obsproject.com/) - The only good recording program (besides Shadowplay). It's open source too
 * [Hamachi](https://vpn.net) - I'm sure you want to host servers and not give your public IP, or port forwarding is too much to ask for
 * [WhatPulse](https://whatpulse.org/) - Stats for your computer addiction
-* [f.lux](https://justgetflux.com/) - Makes your eyes feel better at night
 
 
 ### Linux
@@ -46,10 +45,10 @@
 * [GNOME Sushi](https://www.omgubuntu.co.uk/2016/09/gnome-sushi-mac-quick-look-nautilus) - QuickLook but for Linux
 * [Haguichi](https://www.haguichi.net/) - A GUI for Hamachi Linux
 * [Whatpulse](https://whatpulse.org/downloads/) - Stats for your computer addiction but for Linux. Currently in development for Linux
-* [f.lux](https://justgetflux.com/linux.html) - You have it on windows, you have it here
 * [Lutris](https://lutris.net/) - PlayOnLinux but better
 
-### Firefox Addons
+### Firefox Addons/Theme
+* [Firefox UWP Style](https://github.com/Guerra24/Firefox-UWP-Style) - One of the simple and good looking themes
 * [DarkReader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) - Why the fuck does light mode still exists?
 * [Country Flags & IP Whois](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois/) - "Country: India"
 * [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - FUCK ADS GET THEM OUT OF MY FUCKING FACE
@@ -60,14 +59,14 @@
 * [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/?src=search) - The auto quality setting is good
 * [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - Imagine having a personal stalker that know everything that you're doing
 * [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) - I don't want Mark Suckerberg to track me more
-* [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) - Imagine this. You're walking outside without clothes and everyone can see your cock. you wouldn't like that, wouldn't you? So go inside and put some fucking clothes on.
+* [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) - Imagine this. You live in a house full of windows and everyone can see what you are doing, you probably wouldn't like that. Better go and cover up those windows
 * [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/) - "This website requires cooki-" OH FUCK OFF
 * [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) - You can finally see those small icons
 * [Song Identifier](https://addons.mozilla.org/en-US/firefox/addon/song-identifier/) - Shazam but for PC
 * [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) - ok we get it you're not payed enough by YouTube but we truly don't care
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - "This website will only work on-" nope. fuck off.
 * [Web Scrobbler](https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/) - Scrobbing for your browser
-* [Universal Bypass](https://addons.mozilla.org/en-US/firefox/addon/universal-bypass/) - Give back my 5 seconds of my life
+* [Universal Bypass](https://addons.mozilla.org/en-US/firefox/addon/universal-bypass/) - Give back the 5 seconds of my life
 * [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) - They always want to track you no matter what
 
 ### Android
