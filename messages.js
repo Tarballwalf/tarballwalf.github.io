@@ -40,7 +40,20 @@ var messages = [
     'DED_MOON is a cutie but he\'s not admitting it',
     'The Elder Scc̷͍̎r̷̢̠̟͕̞̈́͒̎͊̇o̷̡͈̫̞̔̈̚ĺ̷͔͔̳̌͆l̵̡̝͓̈́̈́͑̚̕͝s̴̰̟̙̑̽͂̀ͅ V̴͔̫̄͆̄̅̽̾̊: S̷̨̡̢̩̺̝̙̲̗̜͕̎̌̏̃͋͂͋̆̏̀̾̍̊͊̎̓̐͑͜͝͝k̵͍͉̺̣͚̝̈̅͂́̀̏̽̎̃̀̆̎̆̽͘̚͝y̵̗͉͍̙͔͆̆̓ͅͅr̶̗͎̩̈̅̃̿̋̄̂͂̅́͑̓̚ͅĩ̵̢̛͍̩̗̤̠͜͝m̷̨̛̜̭̜̥̝̫̒̀̿̄͊̕͜',
     'xxxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzzzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzzxzxzxzxzxzxzzxzxzxzxzxzxzxzxzxzxxzxzxzxzzzxzxzxzxzxzxzxzxzx',
-    'Maws and Paws'
+    'Maws and Paws',
+    'Try dying',
+    '\"Pretend to be losing and, some day, your enemy will be your imaginary girlfriend.\"',
+    'Sub Pod®',
+    'Remember that what can go wrong, will go wrong.',
+    '\"Your time on this earth is imaginary.\"',
+    '\"If you really need an abortion, transform.\"',
+    '\"Insanity, the best medicine?\"',
+    '\"If you lose your mind, let it die.\"',
+    '\"We can make our physical bodies become history.\"',
+    '\"When will we figure out how to moisturize souls?\"',
+    '\"Existence is all about being brain-damaged.\"',
+    '\"Your fear of death means nothing to anyone.\"',
+    '\"Touch a legal clown.\"'
 ]
 function newMessage() {
         var randomNumber = Math.floor(Math.random() * (messages.length));
