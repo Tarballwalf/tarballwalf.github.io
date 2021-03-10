@@ -1,4 +1,4 @@
-## Configure Office 2019 VLS
+## Deploy Office 2019 VLS
 
 Before starting off, this is a guide on how to install Office 2019 using Volume Licensing Service, I'm assuming you already have a VLS ready account. All the keys provided in this guide are taken from official microsoft sources.
 
