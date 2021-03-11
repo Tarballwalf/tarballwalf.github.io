@@ -11,6 +11,11 @@
   <script src="main.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.26/moment-timezone-with-data-10-year-range.min.js"></script>
+  <script>
+  setInterval(() => {
+  document.getElementById('time2').innerHTML = moment.tz('Europe/Bucharest').format('dddd, MMMM Do   HH:mm (hh:mm A) z')
+  }, 300)
+  </script>
   <!-- Meta Tags -->
   <meta property="og:site_name" content="Tarballwalf" />
   <meta property="og:title" content="Home" />
