@@ -9,7 +9,7 @@ for (i = 0; i < toggler.length; i++) {
 }
 
 function search() {
-  var input, filter, ul, li, a, i, p;
+  var input, filter, ul, li, a, i;
   input = document.getElementById("getSearch");
   filter = input.value.toUpperCase();
   ul = document.getElementById("getIndex");
