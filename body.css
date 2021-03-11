@@ -103,8 +103,9 @@ ul, #tree {
 
 input {
   padding: 4px;
-  border: 0px;
+  border: none;
 }
+
 .search {
   width: 100%;
   padding-right: 0px;
