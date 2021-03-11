@@ -110,3 +110,9 @@ input {
   padding-right: 0px;
   padding-left: 0px;
 } 
+
+form {
+  width: 150px;
+  margin: auto;
+  margin-top: 0px;
+}
