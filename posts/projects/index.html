@@ -45,12 +45,17 @@
 <body>
   <center>
     <div class="block">
-        <line>
-            <p>- <a style="text-decoration: none;" href="./modern-dark.html">Modern Dark </a>(A modern dark theme for Spotify)</p>
-            <p>- <a style="text-decoration: none;" href="./dotfiles-config.html">Dotfiles Config</a> (WIP)</p>
-            <p>- <a style="text-decoration: none;" href="./confirmation-box.html">Confirmation Box</a> (Confirmation box based on the website design)</p>
-            <p>- <a style="text-decoration: none;" href="./tree-view.html">Tree View</a> (Tree view based on the website design)</p>
-        </line>
+      <p>
+        <form style="text-align: right; float:right; clear: left;">
+          <input style="text-align:right; float:right; margin-top: -4px;" type="text" id="getSearch" onkeyup="search()" placeholder="Search:">
+        </form>
+      </p>
+      <line id="getIndex">
+        <p>- <a style="text-decoration: none;" href="./modern-dark.html">Modern Dark </a>(A modern dark theme for Spotify)</p>
+        <p>- <a style="text-decoration: none;" href="./dotfiles-config.html">Dotfiles Config</a> (WIP)</p>
+        <p>- <a style="text-decoration: none;" href="./confirmation-box.html">Confirmation Box</a> (Confirmation box based on the website design)</p>
+        <p>- <a style="text-decoration: none;" href="./tree-view.html">Tree View</a> (Tree view based on the website design)</p>
+      </line>
     </div>
     <div class="block" style="clear: both;">
       <hr class="border"></hr>
@@ -62,6 +67,7 @@
         document.write(`&copy;Tarballwalf 2020 - ${new Date().getFullYear()}`);
       </script>
    </div>
-</footer>
+  </footer>
+  <script src="/main.js"></script>
 </body>
 </html>
