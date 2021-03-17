@@ -20,10 +20,6 @@ Login Information:
 Password:
 >raymondfreesoftware
 
-### Shared Drive:  (**Deprecated** - No longer working thanks to Google)
-
-* [Invitation](https://groups.google.com/forum/#!forum/adobe-cc-latest-cracked-iso-monkrus-hosted-in-google-drive)
-
 Download the .iso file, **other files are NOT necessary**.
 
 The version number is determined by the `u(number)` at the end of the file, meaning, higher the number the newer.
