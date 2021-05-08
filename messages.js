@@ -33,7 +33,6 @@ var messages = [
     'Oh cock',
     'Everybody secretly thinks that furries are hot',
     'YIFF at 16K RESOLUTION?? - HOLY $H!T',
-    'Hexinity is a cutie',
     'Zhitri is a cutie',
     'CBT',
     'Avira is a cutie',
@@ -53,7 +52,8 @@ var messages = [
     '\"When will we figure out how to moisturize souls?\"',
     '\"Existence is all about being brain-damaged.\"',
     '\"Your fear of death means nothing to anyone.\"',
-    '\"Touch a legal clown.\"'
+    '\"Touch a legal clown.\"',
+    'Maple is a cutie'
 ]
 function newMessage() {
         var randomNumber = Math.floor(Math.random() * (messages.length));
