@@ -35,7 +35,6 @@ var messages = [
     'YIFF at 16K RESOLUTION?? - HOLY $H!T',
     'Zhitri is a cutie',
     'CBT',
-    'Avira is a cutie',
     'DED_MOON is a cutie but he\'s not admitting it',
     'The Elder Scc̷͍̎r̷̢̠̟͕̞̈́͒̎͊̇o̷̡͈̫̞̔̈̚ĺ̷͔͔̳̌͆l̵̡̝͓̈́̈́͑̚̕͝s̴̰̟̙̑̽͂̀ͅ V̴͔̫̄͆̄̅̽̾̊: S̷̨̡̢̩̺̝̙̲̗̜͕̎̌̏̃͋͂͋̆̏̀̾̍̊͊̎̓̐͑͜͝͝k̵͍͉̺̣͚̝̈̅͂́̀̏̽̎̃̀̆̎̆̽͘̚͝y̵̗͉͍̙͔͆̆̓ͅͅr̶̗͎̩̈̅̃̿̋̄̂͂̅́͑̓̚ͅĩ̵̢̛͍̩̗̤̠͜͝m̷̨̛̜̭̜̥̝̫̒̀̿̄͊̕͜',
     'xxxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzzzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzzxzxzxzxzxzxzzxzxzxzxzxzxzxzxzxzxxzxzxzxzzzxzxzxzxzxzxzxzxzx',
@@ -53,7 +52,10 @@ var messages = [
     '\"Existence is all about being brain-damaged.\"',
     '\"Your fear of death means nothing to anyone.\"',
     '\"Touch a legal clown.\"',
-    'Maple is a cutie'
+    'Maple is a cutie',
+    'The never ending cycle',
+    'Maybe give up?',
+    'It\'s not there',
 ]
 function newMessage() {
         var randomNumber = Math.floor(Math.random() * (messages.length));
