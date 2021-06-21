@@ -72,6 +72,6 @@ Now use it to disable the PPA you had added and revert the Mesa package to the v
 $ sudo ppa-purge ppa:oibaf/graphics-drivers
 ```
 
-Note: Updating the drivers will require steam to download and recompile the shader cache
+Note: Updating the drivers will require Steam to download and recompile the shader cache
 
 Sources: [itsfoss](https://itsfoss.com/install-mesa-ubuntu/)
